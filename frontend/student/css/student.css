@@ -1,0 +1,42 @@
+body {
+    background-color: #dde5ec;
+}
+
+#header {
+    text-align: center;
+    background-color: white;
+    box-shadow: 1px 1px 24px 7px rgba(0,0,0,0.35);
+    -webkit-box-shadow: 1px 1px 24px 7px rgba(0,0,0,0.35);
+    -moz-box-shadow: 1px 1px 24px 7px rgba(0,0,0,0.35);
+    padding: 1em 0;
+}
+
+#questionsContainer {
+    margin-top: 0;
+    padding-top: 2em;
+    text-align: center;
+    background-color: #DDE5EC;
+}
+
+li {
+    margin: 1em;
+    border-radius: 2rem;
+}
+
+button {
+    margin: 0.3em;
+    padding: 0.6em 2em !important;
+}
+
+div.optionContainer {
+    text-align: left;
+    margin-left: 3em;
+}
+
+
+
+div.question {
+    margin-bottom: 2em;
+    background-color: white;
+    padding: 2em 1em;
+}
